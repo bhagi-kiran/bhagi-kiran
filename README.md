@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dark-knight123
+- 👋 Hi, I’m @dark-kni8t
 - 👀 I’m interested in chip designing
 - 🌱 I’m currently learning designing and verification
 - 
