@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @dark-kni8t
-- 👀 I’m interested in chip designing
-- 🌱 I’m currently learning designing and verification
-- 🤔 I’m looking for help with AI/ML acceleration on FPGA.
-- 💬 Ask me about any tech related stuff.
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -16,6 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi there 👋, I'm Bhagirath.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+- 👀 I’m interested in chip designing
+- 🌱 I’m currently learning designing and verification
+- 🤔 I’m looking for help with AI/ML acceleration on FPGA.
+- 💬 Ask me about any tech related stuff.
 
 - 📫 How to reach me **[LinkedIn - Bhagirath K](https://www.linkedin.com/in/bhagirath-k-/)**
 
