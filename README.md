@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 </p>
 --->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark-kni8t&hide=C,Python,Assembly,Hack,Roff,Yacc,Stata,CMake,html&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="dark-kni8t" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagi-kiran&hide=C,Python,Assembly,Hack,Roff,Yacc,Stata,CMake,html&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="dark-kni8t" /></p>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-kni8t&hide=C,Python,Assembly,Hack,Roff,Yacc,Stata,CMake,html&theme=tokyonight)](https://github.com/dark-kni8t/github-readme-stats)
