@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me:
   -  **[LinkedIn - Bhagirath K](https://www.linkedin.com/in/bhagirath-k-/)**
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
+--->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark-kni8t&show_icons=true&locale=en&layout=compact" alt="dark-kni8t" /></p>
