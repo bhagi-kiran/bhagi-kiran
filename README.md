@@ -27,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark-kni8t&show_icons=true&locale=en&layout=compact" alt="dark-kni8t" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-kni8t)](https://github.com/dark-kni8t/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-kni8t&hide=javascript,css,scss,html&theme=tokyonight)
