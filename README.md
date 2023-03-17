@@ -14,3 +14,13 @@ You can click the Preview link to take a look at your changes.
 --->
 ##########################################################################################################
 
+<h1 align="center">Hi 👋, I'm <name></h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 📫 How to reach me **<linked in>**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark-kni8t&show_icons=true&locale=en&layout=compact" alt="dark-kni8t" /></p>
