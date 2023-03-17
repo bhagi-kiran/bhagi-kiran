@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-kni8t)](https://github.com/dark-kni8t/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-kni8t&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-kni8t&hide=javascript,python,assembly,html&theme=tokyonight)
